@@ -33,6 +33,22 @@
             "for",
             "for.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calc",
+            "calc.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Form1",
+            "Form1.json"
+          ]
         }
       ],
       "configxml": null,
